@@ -3,3 +3,8 @@
 dmenu is an efficient dynamic menu for X.
 
 My configuration for dmenu
+
+##Patches
+
+* [Center](https://tools.suckless.org/dmenu/patches/center/dmenu-center-5.2.diff)
+* [Border](https://tools.suckless.org/dmenu/patches/border/dmenu-border-20230512-0fe460d.diff)
